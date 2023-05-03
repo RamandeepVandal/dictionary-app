@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;600;800&display=swap');
+
+* {
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.definition-section h1 {
+  font-weight: 800;
+}
+
+.definition-section p {
+  font-weight: 300;
+}
+
+.definition-section h2 {
+  font-weight: 600;
+}
+
+svg {
+  cursor: pointer;
+}
+
+.phonetics-div p {
+  color: hsl(288, 80%, 60%)
+}
+
+.syn-ant-section {
+  color:hsl(288, 80%, 60%);
+}
+
+.related-terms {
+  cursor: pointer;
+}
+
+.related-terms:hover {
+  color: hsl(288, 60%, 80%);
+}
